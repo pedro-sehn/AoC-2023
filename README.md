@@ -1,3 +1,3 @@
-### Adventure of Code 2023
+### Advent of Code 2023
 
-Learning some ruby with Adventre of Code
+Learning some ruby with Advent of Code
